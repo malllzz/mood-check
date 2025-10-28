@@ -1,6 +1,8 @@
-Prototipe Fitur "Mood Check-In" - Emergency Call
+Link Demo (GitHub Pages): https://malllzz.github.io/mood-check/
 
-Prototipe ini dibuat sebagai bagian dari proses seleksi internship Front-End Engineer di Emergency Call. Tujuannya adalah untuk mendemonstrasikan user flow sederhana dari fitur "Mood Check-In" sesuai dengan skenario yang diberikan.
+Prototipe Fitur "Mood Check-In" - Emergencyy Call
+
+Prototipe ini dibuat sebagai bagian dari proses seleksi internship Front-End Engineer di Emergencyy Call. Tujuannya adalah untuk mendemonstrasikan user flow sederhana dari fitur "Mood Check-In" sesuai dengan skenario yang diberikan.
 
 1. Arsitektur Sederhana & Alasan Pemilihan Framework
 Arsitektur:
@@ -11,7 +13,7 @@ Saya memilih ReactJS karena:
 - Pengelolaan State yang Efisien: React memudahkan pengelolaan state UI yang dinamis. Untuk prototipe ini, useState sudah sangat cukup untuk melacak mood yang dipilih, teks pengguna, dan status submit form.
 - Berbasis Komponen: Kemampuan React untuk memecah UI menjadi komponen-komponen kecil (seperti RecommendationCard) membuat kode lebih bersih, mudah dibaca, dan mudah dikelola.
 - Conditional Rendering: React memiliki kemampuan yang baik dalam menampilkan UI yang berbeda berdasarkan state. Hal tersebut digunakan untuk beralih antara tampilan form check-in dan tampilan sukses/rekomendasi setelah pengguna menekan submit.
-- Ekosistem: React memiliki ekosistem yang besar dan merupakan skillset yang relevan dan ingin saya kembangkan lebih dalam selama masa internship di Emergency Call.
+- Ekosistem: React memiliki ekosistem yang besar dan merupakan skillset yang relevan dan ingin saya kembangkan lebih dalam selama masa internship di Emergencyy Call.
 
 Saya memilih Tailwind CSS karena:
 - Prototyping Cepat: Pendekatan utility-first memungkinkan untuk membangun antarmuka kustom dengan cepat tanpa harus berpindah-pindah ke file CSS terpisah dan konsistensi desain dapat lebih terjaga.
